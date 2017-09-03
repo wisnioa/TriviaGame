@@ -1,0 +1,39 @@
+.jumbotron {
+	background: pink;
+}
+
+
+.display-3 {
+	text-align: center;
+
+}
+
+#timeLeft h4 {
+	margin-left: 40px;
+	padding-top: 30px;
+}
+body {
+	background: blue;
+ 
+}
+
+.questions {
+	margin-left: 50px;
+}
+.questions{
+	padding-top: 10px;
+}
+#quizArea, #startScreen {
+	background: white;
+	border-radius: 50px;
+	height: 600px;
+	width: 500px;
+	margin-left: 300px;
+
+}
+#start, #done {
+	margin-left: 200px;
+}
+
+
+
